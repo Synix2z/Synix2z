@@ -58,10 +58,10 @@ différentes informations sur mon profil in game.
 
 Je travaille actuellement sur mon portfolio.
 
+Voici un des visuels de ma maquette. D'autres sont également visibles sur mon dépôt [🎨 Voir mes maquettes](https://github.com/Synix2z/Synix2z)
 ---
 
 ## 📫 Me contacter
 
 📧 **tgou58@gmail.com**  
-💼 **LinkedIn**  
 🌐 **Portfolio — bientôt disponible**
