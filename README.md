@@ -36,7 +36,7 @@ SQL · MySQL
 
 **Outils**
 
-Git · GitHub · Figma · Trello
+Git · GitHub · Docker · Figma · Trello
 
 ---
 
