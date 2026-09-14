@@ -60,6 +60,8 @@ Je travaille actuellement sur mon portfolio.
 
 Voici un des visuels de ma maquette. 
 
+![Maquette](images/Portfolio_Section_1.png)
+
 D'autres sont également visibles sur mon dépôt [🎨 Voir mes maquettes](https://github.com/Synix2z/Synix2z)
 ---
 
