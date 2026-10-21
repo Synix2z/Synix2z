@@ -24,7 +24,7 @@ C · C++ · C# · Python · JavaScript · PHP
 
 **Web**
 
-HTML · CSS · Tailwind CSS · React · Node.js
+HTML · CSS · Tailwind CSS · React · Node.js · Next.js
 
 **Bases de données**
 
@@ -33,6 +33,18 @@ SQL · MySQL
 **Outils**
 
 Git · GitHub · Docker · Figma · Trello
+
+---
+
+## 🌐 Mon portfolio
+
+Portfolio personnel présentant mon parcours et mes projets, développé avec **Next.js** et **Tailwind CSS**, avec une architecture en composants.
+
+- Projets personnels et universitaires
+- Une page dédiée par projet
+- Design responsive
+
+[💻 Voir le code](https://github.com/Synix2z/GJ-Theo-Portfolio)
 
 ---
 
@@ -48,17 +60,8 @@ différentes informations sur mon profil in game.
 - Objectifs
 - React · Module CSS
 
----
+[💻 Voir le code](https://github.com/Synix2z/ROK-Portfolio)
 
-## 📈 En cours
-
-Je travaille actuellement sur mon portfolio.
-
-Voici un des visuels de ma maquette. 
-
-![Maquette](images/Portfolio_Section_1.png)
-
-D'autres sont également visibles sur mon dépôt [🎨 Voir mes maquettes](https://github.com/Synix2z/Synix2z)
 ---
 
 ## 📫 Me contacter
