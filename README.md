@@ -66,5 +66,5 @@ différentes informations sur mon profil in game.
 
 ## 📫 Me contacter
 
-📧 **tgou58@gmail.com**  
-🌐 **Portfolio — bientôt disponible**
+📧 **Email - tgou58@gmail.com**  
+🌐 **Portfolio — https://gj-theo-portfolio.vercel.app/**
